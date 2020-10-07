@@ -17,7 +17,7 @@ To get this project up and running locally, you must already have ruby and rails
 
 **Setup**
 
-- Clone this repository with ```git clone git@github.com:gurbuzertunga/reddit_app.git``` using your terminal or command line.<br>
+- Clone this repository with ```git clone https://github.com/mcihadkurel/micro-reddit-blog.git``` using your terminal or command line.<br>
 - Change to the project directory by entering ```cd micro-reddit``` in the terminal<br>
 - Next run ```bundle install``` to install the necessary dependencies<br>
 - Run ```rails db:migrate``` to setup your local database.<br>
